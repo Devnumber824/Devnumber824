@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @Devnumber824
 - 👀 I’m interested in java,DSA,SQL
-- 🌱 I’m currently learning JAVA
 - 💞️ I’m looking to collaborate on JAVA Projects
 - 📫 How to reach me khairnarpranav@outlook.com 
 
