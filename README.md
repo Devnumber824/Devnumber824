@@ -7,5 +7,5 @@
 - Strong hold of DSA and system design.
 - Checout my LinkedIN.
 
-PS :- This is my personal account.I use diffrent account for office work and all the repos are private so you wont see a green github graph. Hope this helps!
+PS :- This is my personal account.I use diffrent account for office work and all the repos are private.
 
