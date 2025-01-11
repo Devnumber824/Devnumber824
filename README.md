@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Devnumber824
-- 👀 I’m interested in java,DSA,SQL
+- 👀 I’m interested in GO,System Design,AI
 - 💞️ I’m looking to collaborate on GO Projects
 - 📫 How to reach me khairnarpranav@outlook.com 
 
